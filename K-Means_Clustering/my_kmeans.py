@@ -2,7 +2,8 @@
 """
 Created on Mon Dec  4 17:30:19 2017
 
-@author: xilinx
+@author: Mark Pei
+@email: duchungk7@gmail.com
 """
 
 # Classification template
@@ -66,14 +67,4 @@ plt.ylabel('Spending Score (1-100)')
 plt.legend()
 plt.savefig('kmeans_result.png')
 plt.show()
-
-
-
-
-
-
-
-
-
-
 
