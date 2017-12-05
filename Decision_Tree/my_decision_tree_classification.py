@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Dec  4 17:30:19 2017
+
+@author: Mark Pei
+@email: duchungk7@gmail.com
+"""
 # Classification template
 
 # Importing the libraries
